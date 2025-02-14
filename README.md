@@ -1,6 +1,9 @@
 ## Hi there 👋
+
 I'm Roshini Prabu
+
 <img align="right" alt="coding" width="300" height="200" src="https://github.com/user-attachments/assets/b1f795c4-9c1b-4cf5-9f12-42b3a44bb636">
+
 
 ABOUT ME!!!
 - 🔭 I’m currently working on Research Paper 
