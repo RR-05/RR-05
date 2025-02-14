@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm Roshini Prabu
-
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fijayhub%2Fijayhub&psig=AOvVaw1SA0yFURYXwb7UXUxbKZ4e&ust=1739583183425000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOjZxcCCwosDFQAAAAAdAAAAABAw">
 ABOUT ME!!!
 - 🔭 I’m currently working on Research Paper ...
 - 🌱 I’m currently learning Deep Learning,Data Analytics...
