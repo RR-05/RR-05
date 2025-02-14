@@ -11,7 +11,7 @@ I'm Roshini Prabu!!!
 
 - 🔭 I’m currently working on Research Paper 
 - 🌱 I’m currently learning Deep Learning,Data Analytics
-- 👯 I’m looking to collaborate on Data Analytics<img align ="right" width="300" height="200" src="https://github.com/user-attachments/assets/9cdf371f-087b-476a-a6df-8d39cd8fb47d">
+- 👯 I’m looking to collaborate on Data Analytics
 - 🤔 I’m looking for help with my current Android Dev
 - 💬 Ask me about cpp,python,front-end,online marketing,
 - business stratergies...
