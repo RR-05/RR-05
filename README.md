@@ -8,7 +8,7 @@ I'm Roshini Prabu!!!
 
    
   ABOUT ME!!!
-
+<img align ="right" width="100" height="100" src="https://github.com/user-attachments/assets/9cdf371f-087b-476a-a6df-8d39cd8fb47d">
 - 🔭 I’m currently working on Research Paper 
 - 🌱 I’m currently learning Deep Learning,Data Analytics
 - 👯 I’m looking to collaborate on Data Analytics
