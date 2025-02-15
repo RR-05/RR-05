@@ -19,12 +19,12 @@ I'm Roshini Prabu!!!
    business stratergies...
 - 📫 How to reach me: <br/> [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/u/RR_24/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/roshini-r-347a75310/)
 
-  #
+  
 <img align ="left" width="100" height="100" src="https://github.com/user-attachments/assets/9362fb50-496a-4f92-aa45-295a8b49229e">
 
 
 #
-
+<img align ="left" width="100" height="100" src="https://github.com/user-attachments/assets/9362fb50-496a-4f92-aa45-295a8b49229e">
 # 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
