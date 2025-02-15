@@ -29,7 +29,7 @@ I'm Roshini Prabu!!!
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,css,js,html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,pytorch,tensorflow,java&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,aws,linux,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,aws,linux,mysql,django)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RR-05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
