@@ -27,8 +27,8 @@ I'm Roshini Prabu!!!
 # 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,css,js,linux,react,pytorch,aws,raspberrypi)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,django&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,css,js,linux,react,pytorch,aws,raspberrypi,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=mysql,java,html)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
