@@ -17,7 +17,7 @@ I'm Roshini Prabu!!!
 - 🤔 I’m looking for help with my current Android Dev
 - 💬 Ask me about cpp,python,front-end,online marketing,
 - business stratergies...
-- 📫 How to reach me:[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/u/RR_24/)
+- 📫 How to reach me:  [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/u/RR_24/)
 
   
 <img align ="left" width="100" height="100" src="https://github.com/user-attachments/assets/9362fb50-496a-4f92-aa45-295a8b49229e">
