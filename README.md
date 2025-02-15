@@ -18,7 +18,7 @@ I'm Roshini Prabu!!!
 - 💬 Ask me about cpp,python,front-end,online marketing,
 - business stratergies...
 - 📫 How to reach me:
-<a href="https://www.leetcode.com/https://leetcode.com/u/rr_24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rr_24/" height="30" width="40" /></a>
+- <br/>[<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/u/RR_24/)
 
   
 <img align ="left" width="100" height="100" src="https://github.com/user-attachments/assets/9362fb50-496a-4f92-aa45-295a8b49229e">
