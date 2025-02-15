@@ -24,7 +24,7 @@ I'm Roshini Prabu!!!
 
 
 #
-# 💻 Tech Stack:
+ 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c,js)](https://skillicons.dev)
